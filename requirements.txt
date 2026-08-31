@@ -1,0 +1,6 @@
+discord.py
+libsql-client
+google-generativeai
+Pillow
+imagehash
+python-dotenv
